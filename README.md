@@ -8,7 +8,7 @@ This is a Scrimba Frontend Path solo project.
 
 # Currently
 
--[x] The search functionality works / fetch from the omdb api and it retunrs an
+- [x] The search functionality works / fetch from the omdb api and it retunrs an
 array of movies which are renderd on the page.
 
 - [x] LocalStorage works
@@ -28,6 +28,3 @@ array of movies which are renderd on the page.
 # Final note
 
 Any feedback appreciated. <3
-#� �M�o�v�i�e�W�a�t�c�h�L�i�s�t�-�v�1�.�
-�
-�
